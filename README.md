@@ -6,6 +6,9 @@ Arduino edition of the launchpad using a membrane keypad module.
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/zgyXCxDwNDc/0.jpg)](http://www.youtube.com/watch?v=zgyXCxDwNDc "Arduino Launchpad Demo")
 
 
+![IMG_0808](https://github.com/user-attachments/assets/05872822-d338-405d-bc87-b1945af7fb40)
+
+
 
 
 **Description**: The membrane keypad has keys 0-9, which play notes C4, D4, E4, F4, G4, A4, B4, C5, E5, and D5. The * and # keys are used to change the duration from 2/10 of a second and 8/10 of a second. The remaining keys, A, B, C, and D, all play simple renditions of Star Wars music.
@@ -22,3 +25,4 @@ Arduino edition of the launchpad using a membrane keypad module.
 
 Open the code in Arduino IDE and upload.
 Ready to go!
+
