@@ -3,7 +3,7 @@ Arduino edition of the launchpad using a membrane keypad module.
 
 **Demo**:
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/zgyXCxDwNDc/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/zgyXCxDwNDc/0.jpg)](http://www.youtube.com/watch?v=zgyXCxDwNDc "Arduino Launchpad Demo")
 
 
 
